@@ -61,8 +61,8 @@ body {
     margin: 1em auto;
     height: 2em;
     font-size: 1.1rem;
-    background-color: #3b3b4f;
-    border-color: white;
+    background-color: #30017a;
+    border-color: rgb(88, 88, 88);
     min-width: 300px;
   }
   
